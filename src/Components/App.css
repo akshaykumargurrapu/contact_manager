@@ -1,0 +1,50 @@
+.main{
+  padding-top: 3rem;
+  
+}
+
+.ui-front{
+margin: 1rem auto;
+width: 60%;
+border: 5px solid beige;
+padding: 0;
+
+}
+
+
+.link_bar_AddContacts{
+  position: absolute;
+  left: 25%;
+  padding: 1rem 0;
+  margin: auto;
+  text-decoration: none;
+  color: black;
+
+}
+.link_bar_ContactList{
+  position: absolute;
+  left: 47%;
+  padding: 1rem 0;
+  margin: auto;
+  text-decoration: none;
+  color: black;
+
+}
+.link_bar_ContactCard{
+  position: absolute;
+  left: 69%;
+  padding: 1rem 0;
+  margin: auto;
+  text-decoration: none;
+  color: black;
+
+}
+
+:any-link:hover{
+  color: rgb(70, 226, 247);
+
+}
+
+.nav{
+  margin: auto;
+}

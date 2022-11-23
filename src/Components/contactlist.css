@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+.Contactlist {
+
+  font-style: italic;
+  text-align: center;
+  font-size: 30px;
+  padding: 4rem 0 1rem 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ContactRender {
+  text-align: left;
+  font-size: 20px;
+  padding: 1rem;
+  position: relative;
+}
+
+.link_email {
+  text-decoration: none;
+  color: black;
+  display: inline;
+}
+
+img {
+  float: left;
+}
+
+hr {
+  width: 10%;
+  border-top: dotted 2px;
+}
+
+.trashbutton {
+  position: absolute;
+  right: 1rem;
+  background-color: beige;
+  border-color: beige;
+  text-decoration: none;
+
+
+}
+
+.trashbutton:hover {
+  background: #96f3fa;
+  text-decoration: none;
+}
+
+.editbutton {
+  position: absolute;
+  right: 4rem;
+  background-color: beige;
+  border-color: beige;
+  text-decoration: none;
+}
+.editbutton:hover {
+  background: #96f3fa;
+  text-decoration: none;
+}
+
+
+

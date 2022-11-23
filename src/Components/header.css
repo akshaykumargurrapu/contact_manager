@@ -1,0 +1,13 @@
+.header1{
+    position: fixed;
+    padding-left: 35%;
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.hr-custom{
+    width: 10%;
+    border-top: dotted 3px;
+}

@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 1,
+        "name" : "Mike",
+        "email" : "mike@gmail.com",
+        "designation" : "Student-Intern",
+        "team" : "QWE",
+        "company" : "Qwerty",
+        "phoneno" : "9347945621"
+    },
+    {
+        "id" : 2,
+        "name" : "Sara",
+        "email" : "sara@gmail.com",
+        "designation" : "Student-Intern",
+        "team" : "QWE",
+        "company" : "Qwerty",
+        "phoneno" : "9876543210"
+    },
+    {
+        "id" : 3,
+        "name" : "Lincon",
+        "email" : "lincon@gmail.com",
+        "designation" : "Student-Intern",
+        "team" : "QWE",
+        "company" : "Qwerty",
+        "phoneno" : "4560123789"
+    }
+]
